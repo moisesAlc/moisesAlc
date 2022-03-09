@@ -1,5 +1,6 @@
 <img align="right" height="460em" src="https://raw.githubusercontent.com/gist/moisesAlc/8a6c0e628f532369f9c52960aecda191/raw/f29dd04c328e372264ee25044719bf8250020fd3/githubcard.svg"/>
-<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> me chamo Moisés Alcântara</h1> 
+<h1 align="left">Oi, sou o Moisés Alcântara <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
+
 
 - Dev Web e Instrutor focado em ajudar pessoas iniciando na programação :rocket::rocket::rocket:
 - Trabalho no [PMenosLab](https://paguemenos.com.br) 🎯
@@ -56,7 +57,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesAlc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-
-<br>
-
-## :bulb: Onde me achar
