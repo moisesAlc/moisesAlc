@@ -35,8 +35,8 @@
 <br>
 
 ## 📌 Línguas
-- <img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png"> (Fluente)
-- <img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-spain_1f1ea-1f1f8.png"> (Básico-Intermediário)
+<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png"> (Fluente)
+<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-spain_1f1ea-1f1f8.png"> (Básico-Intermediário)
 <br>
 
 ## :mortar_board: Estudos
