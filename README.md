@@ -41,7 +41,7 @@
 
 ## :mortar_board: Estudos
 
-- Análise e Desenvolvimento de Sistemas (2022.1) :computer:
+- Análise e Desenvolvimento de Sistemas (2022.2) :computer:
 
 <br>
 
