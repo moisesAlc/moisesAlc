@@ -3,7 +3,7 @@
 
 
 - Desenvolvedor e Instrutor :rocket:
-- Trabalho no [PMenosLab](https://paguemenos.com.br) 🎯
+- Trabalho no [PMenosLab]([https://paguemenos.com.br](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza/)) 🎯
 - Posto vídeos no  [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
 
 <br>
