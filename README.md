@@ -2,7 +2,7 @@
 <h1 align="left">Oi, sou o Moisés Madeira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
 
-- Dev Web e Instrutor focado em ajudar pessoas iniciando na programação :rocket::rocket::rocket:
+- Desenvolvedor e Instrutor :rocket:
 - Trabalho no [PMenosLab](https://paguemenos.com.br) 🎯
 - Posto vídeos no  [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
 
