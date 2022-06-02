@@ -1,5 +1,5 @@
 <img align="right" height="360em" src="https://raw.githubusercontent.com/gist/moisesAlc/8a6c0e628f532369f9c52960aecda191/raw/f29dd04c328e372264ee25044719bf8250020fd3/githubcard.svg"/>
-<h1 align="left">Oi, sou o Moisés Madeira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
+<h1 align="left">Oi, sou o Moisés Madeira <img src="./hi.gif" height="30"width="30px"></h1> 
 
 - Desenvolvedor e [Instrutor](https://guiadafarmacia.com.br/pague-menos-abre-inscricoes-para-2a-turma-do-programa-up-code-por-meio-de-sua-universidade-corporativa-up-farma/) :rocket:
 - Trabalho no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) 🎯
