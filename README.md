@@ -1,5 +1,7 @@
+<!--
 <img align="right" height="360em" src="https://raw.githubusercontent.com/gist/moisesAlc/8a6c0e628f532369f9c52960aecda191/raw/f29dd04c328e372264ee25044719bf8250020fd3/githubcard.svg"/>
 <h1 align="left">Oi, sou o Moisés Madeira <img src="./hi.gif" height="30"width="30px"></h1> 
+-->
 
 - Desenvolvedor e [Instrutor](https://guiadafarmacia.com.br/pague-menos-abre-inscricoes-para-2a-turma-do-programa-up-code-por-meio-de-sua-universidade-corporativa-up-farma/) :rocket:
 - Trabalho no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) 🎯
@@ -7,7 +9,8 @@
 - Mentor do [Anônimo](https://github.com/SrAnonimo13) (programador com *14 anos*)
 <br>
 
-## :video_game: Tecnologias <span>Passe o mouse em cima para ver o nome da tecnologia</span>
+## :video_game: Tecnologias 
+<span>Passe o mouse em cima para ver o nome da tecnologia</span>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <img display="inline" align="center" alt="Js" height="40" width="50" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Ts" height="40" width="50" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="React" height="40" title="React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="HTML" height="40" title="HTML5"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Csharp" height="40" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"><img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
