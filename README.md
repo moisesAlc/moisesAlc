@@ -8,7 +8,7 @@
 - Pai da Júlia e da Luísa 👨‍👧‍👧
 
 ## 🙋‍♂️ O que faço
-- Desenvolvedor e Instrutor no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) - *organização de inovação e tecnologia da Pague Menos*<!--🎯:rocket:-->👨‍💻
+- Desenvolvedor I e Instrutor do Up Code no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) - *organização de inovação e tecnologia da Pague Menos*<!--🎯:rocket:-->👨‍💻
 - Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *14 anos*)
 - De vez em quando posto vídeos com dicas no [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
 
