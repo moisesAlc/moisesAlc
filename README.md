@@ -2,12 +2,11 @@
 <img align="right" height="360em" src="https://raw.githubusercontent.com/gist/moisesAlc/8a6c0e628f532369f9c52960aecda191/raw/f29dd04c328e372264ee25044719bf8250020fd3/githubcard.svg"/>
 <h1 align="left">Oi, sou o Moisés Madeira <img src="./hi.gif" height="30"width="30px"></h1> 
 -->
-
+## 🙋‍♂️ O que faço
 - Desenvolvedor e [Instrutor](https://guiadafarmacia.com.br/pague-menos-abre-inscricoes-para-2a-turma-do-programa-up-code-por-meio-de-sua-universidade-corporativa-up-farma/) :rocket:
 - Trabalho no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) 🎯
 - Posto vídeos no  [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
 - Mentor do [Anônimo](https://github.com/SrAnonimo13) (programador com *14 anos*)
-<br>
 
 ## :video_game: Tecnologias 
 <span>Passe o mouse em cima para ver o nome da tecnologia</span>
@@ -23,14 +22,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conheço
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
-<br><br>
-
-
-
-## 📌 Línguas
-<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png"> (Fluente)<br>
-<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-spain_1f1ea-1f1f8.png"> (Básico-Intermediário)
-<br><br>
+<br>
 
 ## :mortar_board: Estudos
 
@@ -56,6 +48,11 @@
 ## 📌 Fun Fact
 
 - Fiz a [tradução](http://www.minix3.org/doc/faq-brazilian-portuguese.html) da FAQ do Minix 3, sistema que serviu de base para o Linux
+<br>
+
+## 📌 Línguas
+<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png">Inglês Fluente<br>
+<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-spain_1f1ea-1f1f8.png">Espanhol Básico
 <br>
  
 ## :chart_with_upwards_trend: Stats
