@@ -37,8 +37,8 @@
 ## 🎓 Estudos
 
 - Análise e Desenvolvimento de Sistemas (2022.2) 💻
-- Python Avançado (100h) - Hashtag Treinamentos 🐍
-- ReactJS - Rocket Seat 🚀
+- *Em andamento* - Python Avançado (100h) - Hashtag Treinamentos 🐍
+- *Em andamento* - ReactJS - Rocket Seat 🚀
 
 ## ☑️ Selos de Avaliação de Competências do Linkedin:
 
