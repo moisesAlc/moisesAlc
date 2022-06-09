@@ -6,10 +6,10 @@
 
 - Amante de Filmes, Séries e Tecnologia
 - Pai da Júlia e da Luísa 👨‍👧‍👧
+- Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *14 anos*)
 
 ## 🙋‍♂️ O que faço
 - Desenvolvedor I e Instrutor das turmas do [Up Code](https://guiadafarmacia.com.br/pague-menos-abre-inscricoes-para-2a-turma-do-programa-up-code-por-meio-de-sua-universidade-corporativa-up-farma/) no [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) - *organização de inovação e tecnologia da Pague Menos*<!--🎯:rocket:-->👨‍💻
-- Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *14 anos*)
 - De vez em quando posto vídeos com dicas no [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
 
 ## 🎮 Tecnologias 
