@@ -24,6 +24,39 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
+## Linguagens
+
+ - C#
+ - Python
+ - Javascript
+ - Typescript
+
+## Backend
+
+ - .NET
+   - ASP.NET Core (MVC e API)
+   - ASP.NET Framework (MVC e API)
+   - Entity Framework
+   - Node e Express.js
+ - Node
+   - Express.js
+
+## Bancos de Dados
+ - MySQL
+ - SQL Server
+ - SQLite
+
+## Frontend
+ - HTML5, CSS3
+ - React.js
+ - Bootstrap
+ - JQuery
+
+## Conhecimentos
+ - Git/Github
+ - Agilidade/SCRUM
+ - Ciclo de Vida do Desenvolvimento de Software
+<!--
 ## 🎮 Tecnologias 
 <span>Passe o mouse em cima para ver o nome da tecnologia</span>
 
@@ -36,7 +69,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conheço
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"><img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
 <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"><img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"><img align="center" alt="Inkscape" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape">
-
+-->
 ##  💬 Fale comigo! 🙂
 <div> 
   <a href="https://wa.me/+5585981629098?text=oi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -46,30 +79,26 @@
   <a href="https://www.instagram.com/moisesprof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 🎓 Estudos
+## 🎓 Ensino Superior
 
 - Análise e Desenvolvimento de Sistemas (2022.2) 💻
-- *Em andamento* - Python Avançado (100h) - Hashtag Treinamentos 🐍
-- *Em andamento* - ReactJS - Rocket Seat 🚀
 
-## ☑️ Selos de Avaliação de Competências do Linkedin:
+## Cursos
 
-- 🏅 Desenvolvimento de front-end
-- 🏅 .NET Framework
-- 🏅 C#
-- 🏅 HTML
-- 🏅 CSS
+- *Em andamento* - Python Avançado - Hashtag Treinamentos
+- *Em andamento* - NodeJS - Rocket Seat 🚀
 
-## 🥇 Conquistas 
+## 🥇 Selos de Competências do Linkedin:
 
-- 3º lugar no Hackathon da [Feira da Música](https://www.instagram.com/p/Bt_zOcQn_w9/). **Desafio**: era o único programador
+- 🏅 Desenvolvimento de front-end, HTML e CSS
+- 🏅 C# e .NET Framework
 
 ## 📌 Fun Fact
 
 - Fiz a [tradução](http://www.minix3.org/doc/faq-brazilian-portuguese.html) da FAQ do Minix 3, sistema que serviu de base para o Linux
+- 3º lugar no Hackathon da [Feira da Música](https://www.instagram.com/p/Bt_zOcQn_w9/). **Desafio**: era o único programador
 
-## 📌 Línguas
-- Inglês Fluente&nbsp;<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png"><br>
+## Inglês Fluente&nbsp;<img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-united-states_1f1fa-1f1f8.png"><br>
 <!--
 <img align="center" alt="Python" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-spain_1f1ea-1f1f8.png">Espanhol Básico
 -->
