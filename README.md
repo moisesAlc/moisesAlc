@@ -37,7 +37,7 @@
    - ASP.NET Core (MVC e API)
    - ASP.NET Framework (MVC e API)
    - Entity Framework
-   - Node e Express.js
+
  - Node
    - Express.js
 
