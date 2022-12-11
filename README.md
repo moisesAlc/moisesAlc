@@ -6,7 +6,7 @@
 
 - Amante de Filmes, Séries e Tecnologia
 - Pai da Júlia e da Luísa 👨‍👧‍👧
-- Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *14 anos*)
+- Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *15 anos*)
 
 ## 🙋‍♂️ O que faço
 - Desenvolvedor Backend ( com conhecimentos em Front ) no time de Inovação do [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) - *organização de inovação e tecnologia da Pague Menos*<!--🎯:rocket:-->👨‍💻
@@ -109,5 +109,4 @@
   <a href="https://www.linkedin.com/in/moisesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:moisesprepara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/c/MoisésMadeira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/moisesprof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
