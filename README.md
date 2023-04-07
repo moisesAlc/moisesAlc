@@ -10,6 +10,7 @@
 
 ## 🙋‍♂️ O que faço / Já fiz
 - Coordenador de Programas Educacionais em Tecnologia no [iRede](https://irede.org.br/)
+  - Um dos projetos é o [IT Talent](https://programaittalent.com.br/)
 - Desenvolvedor Backend na [Dell/LEAD](https://leadfortaleza.com.br/portal)
 - Desenvolvedor Backend ( com conhecimentos em Front ) no time de Inovação do [PMenosLab](https://revistadafarmacia.com.br/farmacia/pmenoslab-braco-de-tecnologia-e-inovacao-da-pague-menos-ganha-espaco-em-fortaleza) - *organização de inovação e tecnologia da Pague Menos*<!--🎯:rocket:-->👨‍💻
 - De vez em quando posto vídeos com dicas no [Youtube](https://www.youtube.com/c/MoisésMadeira) :tv:
