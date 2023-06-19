@@ -7,6 +7,7 @@
 - Pai da Júlia e da Luísa 👨‍👧‍👧
 - Amante de Filmes, Séries e Tecnologia
 - Mentor do [João Gonçalves](https://github.com/SrAnonimo13) (programador com *15 anos*)
+- Mentor do [João Felipe](https://github.com/Magoninho)
 
 ## 🙋‍♂️ O que faço / Já fiz
 - Coordenador de Programas Educacionais em Tecnologia no [iRede](https://irede.org.br/)
