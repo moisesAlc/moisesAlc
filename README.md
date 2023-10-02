@@ -23,7 +23,7 @@
 ## 🖊️ Linguagens mais usadas
 
 <p align="left">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
 ## Linguagens
