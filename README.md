@@ -17,13 +17,13 @@
 ## 📈 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisesAlc&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moisesAlc&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </p>
 
 ## 🖊️ Linguagens mais usadas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
 ## Linguagens
