@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Moisés Madeira
+Hi! My name is Moisés Madeira
 ======================================================================================================================================
 <div> 
   <a href="https://www.linkedin.com/in/moisesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,6 +13,7 @@ Software Developer
 * ✉️  You can contact me at [msalcmd@gmail.com](mailto:msalcmd@gmail.com)
 * 🚀  I'm currently working on [XPTO](http://xpto)
 * 🧠  I'm learning Kubernetes
+* 🗣️  I'm fluent in English
 * 🤝  I'm open to collaborating on Open-source projects on .NET & Python
 * ⚡  I'm secretely superman... but don't tell anyone
 
@@ -21,8 +22,8 @@ Software Developer
 
 <!--<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=moisesAlc&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-</p>-->
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=outrun"/>
-</p>
+</p>-->
